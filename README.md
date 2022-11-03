@@ -171,6 +171,53 @@ AWS | GCP | Azure | DevOps | Kubernetes | Terraform | Security | DevSecOps | Aut
 * Actively Assisting as a part of Tecore Support in providing 24×7 remote Support to clients
   and handling emergencies.
 
+---
+
+### [Prayosha Food Services Private Limited]
+
+#### DevOps Engineer
+
+* Full Time
+* January 2020 – March 2020
+
+**Responsibilities**:
+
+* Monitoring, Managing and Troubleshooting the Network Infrastructure.
+* Remote Installation, Deployment, Reconfiguration of product ConnectXF (MCS) on Linux
+  platform, configuring, monitoring and testing of Email Servers for spectrum of clients.
+* Configuring servers for Mithi Hosted Email services and Addressing the performance
+  bottleneck and ensuring maximum Network and Server uptime.
+* Delivering Monthly Technical Face-to-Face Training Sessions for clients In-Premise.
+* Preparing the remote client-site in typical Distributed Multi-Server Email system.
+
+**Additional Responsibilities:**
+
+* Actively Assisting as a part of Tecore Support in providing 24×7 remote Support to clients
+  and handling emergencies.
+
+---
+
+### [Shubhashish IT Services Private Limited]
+
+#### IT Manager
+
+* Full Time
+* July 2016 – November 2019
+
+**Responsibilities**:
+
+* Monitoring, Managing and Troubleshooting the Network Infrastructure.
+* Remote Installation, Deployment, Reconfiguration of product ConnectXF (MCS) on Linux
+  platform, configuring, monitoring and testing of Email Servers for spectrum of clients.
+* Configuring servers for Mithi Hosted Email services and Addressing the performance
+  bottleneck and ensuring maximum Network and Server uptime.
+* Delivering Monthly Technical Face-to-Face Training Sessions for clients In-Premise.
+* Preparing the remote client-site in typical Distributed Multi-Server Email system.
+
+**Additional Responsibilities:**
+
+* Actively Assisting as a part of Tecore Support in providing 24×7 remote Support to clients
+  and handling emergencies.
 
 ## Hobbies
 <img align="center" width="50px" title="Multiplayer PC Gaming" src="https://raw.githubusercontent.com/varunchandak/varunchandak/master/hobbies/gaming.svg">
