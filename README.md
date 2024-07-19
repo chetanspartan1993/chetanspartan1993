@@ -4,7 +4,7 @@
 [![Github Badge](https://img.shields.io/github/followers/chetanspartan1993?label=chetanspartan1993&logo=github&style=flat)](https://github.com/chetanspartan1993) ![visitors](https://visitor-badge.laobi.icu/badge?page_id=chetanspartan1993.chetanspartan1993)
 
 ## About Me
-DevOps and Cloud Security Engineer with strong problem-solving skills and demonstrated competence in automating and securing cloud infrastructure, with a focus on leveraging the cloud's capabilities while ensuring high availability, scalability, security, and a good user experience with low financial impact.
+A DevOps and Cloud Security Engineer with strong problem-solving skills and demonstrated competence in automating and securing cloud infrastructure, with a focus on leveraging the cloud's capabilities while ensuring high availability, scalability, security, and a good user experience with low financial impact.
 
 ---
 
